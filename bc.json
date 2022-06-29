@@ -1,6 +1,6 @@
 
 {
-"spider":"https://ghproxy.com/https://ghproxy.com/https://raw.githubusercontent.com/chuanbei32/tvbox/main/bc.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/chuanbei32/tvbox/main/bc.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
 
