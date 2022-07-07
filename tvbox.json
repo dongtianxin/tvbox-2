@@ -2,7 +2,7 @@
    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/chuanbei32/tvbox/main/tvbox.jar",
 
    "lives":[
-      {"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]
+      {"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/chuanbei32/tvbox/main/tvbox.txt"]}]
    }],
 
    "sites":[
