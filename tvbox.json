@@ -2,8 +2,8 @@
    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/chuanbei32/tvbox/main/tvbox.jar",
 
    "lives":[
-      {"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/chuanbei32/tvbox/main/tvbox.txt"]}]
-   }],
+      {"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/chuanbei32/tvbox/main/tvbox.txt"]}]}
+   ],
 
    "sites":[
       {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
