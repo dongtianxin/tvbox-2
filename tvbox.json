@@ -4,7 +4,7 @@
    "wallpaper":"https://ghproxy.com/https://raw.githubusercontent.com/chuanbei32/tvbox/main/tvbox.png",
 
    "lives":[
-      {"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/chuanbei32/tvbox/main/tvbox.txt"]}]}
+      {"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2h1YW5iZWkzMi90dmJveC9tYWluL3R2Ym94LnR4dA=="]}]}
    ],
 
    "sites":[
